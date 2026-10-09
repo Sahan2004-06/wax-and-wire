@@ -10,7 +10,7 @@ Extras: a spinning CD cursor that follows the mouse (and spins faster over anyth
 clickable), and an endless neon sunset background that gives way to an album's
 artwork while you hover over it.
 
-**Live site:** https://YOUR-SITE.netlify.app
+https://wax-and-wire.netlify.app
 
 ## Run locally
 
